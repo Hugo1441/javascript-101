@@ -1,0 +1,1032 @@
+{
+"casos":[
+ {
+   "CCAA": "AN",
+   "CASOS": 490451
+ },
+ {
+   "CCAA": "AR",
+   "CASOS": 203237
+ },
+ {
+   "CCAA": "AS",
+   "CASOS": 105448
+ },
+ {
+   "CCAA": "CB",
+   "CASOS": 87920
+ },
+ {
+   "CCAA": "CE",
+   "CASOS": 4648
+ },
+ {
+   "CCAA": "CL",
+   "CASOS": 654622
+ },
+ {
+   "CCAA": "CM",
+   "CASOS": 680649
+ },
+ {
+   "CCAA": "CN",
+   "CASOS": 87931
+ },
+ {
+   "CCAA": "CT",
+   "CASOS": 1711217
+ },
+ {
+   "CCAA": "EX",
+   "CASOS": 129147
+ },
+ {
+   "CCAA": "GA",
+   "CASOS": 344098
+ },
+ {
+   "CCAA": "IB",
+   "CASOS": 74765
+ },
+ {
+   "CCAA": "MC",
+   "CASOS": 71677
+ },
+ {
+   "CCAA": "MD",
+   "CASOS": 2646704
+ },
+ {
+   "CCAA": "ML",
+   "CASOS": 4725
+ },
+ {
+   "CCAA": "NC",
+   "CASOS": 207509
+ },
+ {
+   "CCAA": "PV",
+   "CASOS": 545019
+ },
+ {
+   "CCAA": "RI",
+   "CASOS": 178199
+ },
+ {
+   "CCAA": "VC",
+   "CASOS": 436188
+ }
+],
+"graficas":{
+   "AN": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 39
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 172
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 1755
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 9038
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 27017
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 51183
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 66153
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 76732
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 87125
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 97056
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 74181
+      }
+   ],
+   "AR": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 42
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 669
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 2668
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 9647
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 20009
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 26740
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 32291
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 36866
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 41894
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 32411
+      }
+   ],
+   "AS": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 2
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 38
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 600
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 3112
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 7022
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 10689
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 13399
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 16136
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 18222
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 20637
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 15591
+      }
+   ],
+   "CB": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 11
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 74
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 209
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 1197
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 5476
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 9281
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 11599
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 13471
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 15742
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 17639
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 13221
+      }
+   ],
+   "CE": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 2
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 24
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 105
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 441
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 623
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 732
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 874
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 1026
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 821
+      }
+   ],
+   "CL": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 10
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 103
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 1237
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 8379
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 29026
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 54485
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 77548
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 102931
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 124247
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 143881
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 112775
+      }
+   ],
+   "CM": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 4
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 103
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 1676
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 8407
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 28178
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 59633
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 89625
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 109927
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 126782
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 143724
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 112590
+      }
+   ],
+   "CN": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 4
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 39
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 83
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 501
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 2079
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 6230
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 10411
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 12928
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 14079
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 14932
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 15458
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 11187
+      }
+   ],
+   "CT": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 32
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 210
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 3073
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 24248
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 87725
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 161365
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 222574
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 270770
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 325366
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 352674
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 263180
+      }
+   ],
+   "EX": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 10
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 43
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 347
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 2116
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 7988
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 13131
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 16629
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 20912
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 23658
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 25292
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 19021
+      }
+   ],
+   "GA": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 19
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 732
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 4526
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 16939
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 36252
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 48579
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 55759
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 62369
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 67459
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 51464
+      }
+   ],
+   "IB": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 4
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 10
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 44
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 222
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 1553
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 5275
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 8545
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 10308
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 11791
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 13129
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 13780
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 10104
+      }
+   ],
+   "MC": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 5
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 276
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 1471
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 4785
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 7926
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 9567
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 11182
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 12173
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 13401
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 10891
+      }
+   ],
+   "MD": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 111
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 2959
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 26861
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 93702
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 206064
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 296847
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 355921
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 400771
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 446816
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 471838
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 344814
+      }
+   ],
+   "ML": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 21
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 162
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 291
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 496
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 670
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 730
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 810
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 887
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 658
+      }
+   ],
+   "NC": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 2
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 19
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 864
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 4079
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 11249
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 19596
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 26023
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 31147
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 36244
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 43276
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 35010
+      }
+   ],
+   "PV": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 14
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 356
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 2964
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 10636
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 31479
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 53927
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 70687
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 84132
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 95929
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 109992
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 84903
+      }
+   ],
+   "RI": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 1
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 274
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 1723
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 3704
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 8759
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 15793
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 22666
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 28545
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 33646
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 36446
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 26642
+      }
+   ],
+   "VC": [
+      {
+         "SEMANA": 8,
+         "CASOS_SEMANA": 0
+      },
+      {
+         "SEMANA": 9,
+         "CASOS_SEMANA": 51
+      },
+      {
+         "SEMANA": 10,
+         "CASOS_SEMANA": 187
+      },
+      {
+         "SEMANA": 11,
+         "CASOS_SEMANA": 1233
+      },
+      {
+         "SEMANA": 12,
+         "CASOS_SEMANA": 8161
+      },
+      {
+         "SEMANA": 13,
+         "CASOS_SEMANA": 25443
+      },
+      {
+         "SEMANA": 14,
+         "CASOS_SEMANA": 45781
+      },
+      {
+         "SEMANA": 15,
+         "CASOS_SEMANA": 57872
+      },
+      {
+         "SEMANA": 16,
+         "CASOS_SEMANA": 68741
+      },
+      {
+         "SEMANA": 17,
+         "CASOS_SEMANA": 76518
+      },
+      {
+         "SEMANA": 18,
+         "CASOS_SEMANA": 85760
+      },
+      {
+         "SEMANA": 19,
+         "CASOS_SEMANA": 66441
+      }
+   ]
+}
+}
